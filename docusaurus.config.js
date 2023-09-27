@@ -14,7 +14,7 @@ const config = {
   url: 'https://codelearnerrr.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tcc-senai/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
